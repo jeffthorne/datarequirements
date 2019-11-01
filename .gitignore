@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+.Python
+__pycache__/
+bin/
+include/
+aqua.egg-info/
+dist/
+venv/
